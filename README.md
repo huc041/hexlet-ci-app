@@ -1,6 +1,6 @@
 # Example app for CI Hexlet course
 
-Starting boilerplate of [Strapi](https://strapi.io/) application
+Starting boilerplate of [Strapi](https://strapi.io/) application (!)
 
 ## System requirements
 
